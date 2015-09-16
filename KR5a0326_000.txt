@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:46:49.654925
+# -*- mode: mandoku-view -*-
 #+TITLE: 三洞讃頌靈章
-#+PROPERTY: DZID  DZ0314
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—779 三卷 洞真部讃頌類
+#+DATE: 2015-08-28 23:46:50
+#+PROPERTY:  LASTPB <PB KR5a0326_SJB_003-050790c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶<md:KR5a0326_HFL_003-014b>¶¶¶¶¶¶¶¶¶¶¶
+
